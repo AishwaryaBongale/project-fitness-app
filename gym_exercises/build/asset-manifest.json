@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32ece884.css",
+    "main.js": "/static/js/main.e13a7d0a.js",
+    "static/media/banner.png": "/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym-banner.png": "/static/media/gym-banner.a8e811cb4ed01c9a6528.png",
+    "static/media/elite-fitness-logo.png": "/static/media/elite-fitness-logo.93498fe0e1bc560e17cd.png",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.32ece884.css.map": "/static/css/main.32ece884.css.map",
+    "main.e13a7d0a.js.map": "/static/js/main.e13a7d0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32ece884.css",
+    "static/js/main.e13a7d0a.js"
+  ]
+}
